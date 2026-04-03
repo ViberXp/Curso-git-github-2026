@@ -1,0 +1,5 @@
+ls - localiza a pasta que você esta e diz os arquivos dentro da pasta, por exemplo ,Pasta Inicio (home).
+cd - Te faz navegar por pastas, entrar e sair, por exemplo "cd Desktop/".
+pwd - Mostra o Caminho Absoluto onde eu estou(pasta), por exemplo, mostra todo diretório ate a pasta "desktop", "/c/Users/Viberxpp/Desktop".
+ls -a  - Mostra arquivos ocultos da pasta
+mkdir - Cria pastas diretamente do Terminal 
