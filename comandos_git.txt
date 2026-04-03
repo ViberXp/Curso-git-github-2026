@@ -1,0 +1,1 @@
+git init. ---> cria um repo git na pasta atual

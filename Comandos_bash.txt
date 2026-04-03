@@ -1,5 +1,18 @@
+*Terminal*
+
 ls - localiza a pasta que você esta e diz os arquivos dentro da pasta, por exemplo ,Pasta Inicio (home).
 cd - Te faz navegar por pastas, entrar e sair, por exemplo "cd Desktop/".
 pwd - Mostra o Caminho Absoluto onde eu estou(pasta), por exemplo, mostra todo diretório ate a pasta "desktop", "/c/Users/Viberxpp/Desktop".
 ls -a  - Mostra arquivos ocultos da pasta
 mkdir - Cria pastas diretamente do Terminal 
+cat - Diz o que tem em Determinado arquivo selecionado.
+
+*Git*
+
+
+git init .  -  Deixa uma pasta usável para o Git
+rm -rf .git  -  Apaga o Arquivo Git da pasta
+git status - Diz a Branch que estamos e da o Status Geral de arquivos/pasta
+git add - Prepara/Diz o que vai entrar no "Check Point"
+git commit -m  -  Cria um Check Point e da uma descrição ao mesmo (todo commit precisa de uma assinatura, no caso de quem quer salvar tal commit com email e nome)
+rash = String unica, como se fosse um cpf, um identificador para cada commit
