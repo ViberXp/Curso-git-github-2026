@@ -1,0 +1,5 @@
+Branches são ramificações do projeto, ou seja "missões secundarias" que a gente cria para não alterar a branche "Main/Head" que é a principal.
+
+git checkout -b + Nome da branche = Cria uma nova branche secundaria e muda o ramo que a gente está (Saindo do ramo Head).
+
+git branch = Diz todas as branches e qual estamos no momento.
