@@ -1,2 +1,4 @@
 Esse arquivo é inutil
 mais uma linha para commit
+
+hoje esta sendo um dia muito legal
