@@ -1,0 +1,113 @@
+[33mcommit adc98632cc248ef5ea72386b9523541576ac2391[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfluxo_git_github[m[33m, [m[1;31morigin/fluxo_git_github[m[33m)[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Thu Apr 9 15:21:51 2026 -0300
+
+    Fluxo de trabalho criado
+
+[33mcommit 2510b8e23c3708f06ec2c6c4f13f42a8e99b3d24[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 25cb998 984c59b
+Author: João Leonardo <83733128+ViberXp@users.noreply.github.com>
+Date:   Thu Apr 9 00:37:17 2026 -0300
+
+    Merge pull request #1 from ViberXp/desccriçao
+    
+    Colocando Desccrição do curso
+
+[33mcommit 984c59be239aa6c535c4becb42f2e990027cf970[m[33m ([m[1;31morigin/desccriçao[m[33m, [m[1;32mdesccriçao[m[33m)[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Thu Apr 9 00:29:57 2026 -0300
+
+    Colocando Desccrição do curso
+
+[33mcommit 25cb9982c8301a27bcca6d71668e52f83ebb4385[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Thu Apr 9 00:24:20 2026 -0300
+
+    Para Documentação
+
+[33mcommit 72a2efd36573a1251b7ba0ef8ffbba79784f257a[m
+Merge: f0fedc5 1ec4bf4
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Mon Apr 6 22:40:31 2026 -0300
+
+    Resolvendo Conflitos Ana -> Penedo
+
+[33mcommit 1ec4bf4f6a70c79252a7565000c9b5ec61ba728b[m[33m ([m[1;32mana[m[33m)[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Mon Apr 6 22:36:54 2026 -0300
+
+    Nova Alteração semantica
+
+[33mcommit f0fedc56783421328d7c095d660aaf202301d3d6[m[33m ([m[1;32mpenedo[m[33m)[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Mon Apr 6 22:34:49 2026 -0300
+
+    alteração de commit para transformação
+
+[33mcommit be6973163cc6820946176fec58b321f724776f9e[m
+Merge: e155f8c 14daad1
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Mon Apr 6 22:27:11 2026 -0300
+
+    Nova inserção de linha do arquivo 02
+
+[33mcommit 14daad163d2122463510e7d2e7d28e16646ad0d6[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Mon Apr 6 22:20:35 2026 -0300
+
+    melhorias de pontuação do arquivo 01
+
+[33mcommit e155f8cddcdffd474f5093af4d55ce41b5d4e56e[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Mon Apr 6 22:18:15 2026 -0300
+
+    melhorias no arquivo 01 para padronização
+
+[33mcommit 907221b2dcd3cebec0a32ea67c8fee775b4a086a[m
+Merge: 7397213 711062d
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Mon Apr 6 22:09:35 2026 -0300
+
+    Merge branch 'secundario02'
+
+[33mcommit 73972132ef4722f146acf0b1bc764c6d30dd137d[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Mon Apr 6 22:04:34 2026 -0300
+
+    Nova alteração 01.1
+
+[33mcommit 0e263ecffa4a39b9328187d6b61c768df0895dcf[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Mon Apr 6 22:03:16 2026 -0300
+
+    Nova alteração 01
+
+[33mcommit 711062d6a5fb7af999476627be13a57c7f9625c8[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Mon Apr 6 21:59:52 2026 -0300
+
+    Novo arquivo 02.1
+
+[33mcommit 45e235f6fc0800a03e9bac955062ab68c2fe92ef[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Mon Apr 6 21:57:40 2026 -0300
+
+    Novo arquivo 02
+
+[33mcommit 0731541db2295ccf2026ec2a16888f9d90c2e10f[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Sat Apr 4 16:35:49 2026 -0300
+
+    novos comandos secundarios
+
+[33mcommit 5e288de68ebac3149e68c6154fdcb687b04628ef[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Fri Apr 3 15:59:24 2026 -0300
+
+    Novos Comandos Bash e primeiros comandos
+
+[33mcommit 437bbf0dfe88b00381488c39c248f244911872cf[m
+Author: João Leonardo <joaoleonardo673@gmail.com>
+Date:   Fri Apr 3 15:41:46 2026 -0300
+
+    primeiros comandos bash
